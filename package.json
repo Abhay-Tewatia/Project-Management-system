@@ -1,0 +1,20 @@
+{
+  "name": "project-management-system",
+  "version": "1.0.0",
+  "description": "a project management application for beginners",
+  "keywords": [
+    "backend",
+    "api",
+    "creation"
+  ],
+  "license": "ISC",
+  "author": "Abhay Tewatia",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.8.1"
+  }
+}
